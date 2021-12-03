@@ -18,7 +18,7 @@ export const SEASON_SCHEDULE:Schedule[] = [
     notes:'Pertandingan Ada Kericuhan'},
     {id:5,playingDate:new Date(2021,8,14),HomeTeam: 'Persija',
     AwayTeam: 'Persikabo',HomeScore:3,AwayScore:2,RefName: "Joki",
-    notes:'Pertandingan Aman'},
+    notes:'Pertandingan Selow'},
 ]
 export const TEAMS:Team [] = [
     {id:1,name:'Persija',type:'Over 30'},
